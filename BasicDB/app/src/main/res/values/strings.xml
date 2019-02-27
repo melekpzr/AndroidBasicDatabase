@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Veritabanı</string>
+    <string name="title_home" translatable="false">ANASAYFA</string>
+    <string name="title_kayit_ekle" translatable="false">KAYIT EKLE</string>
+    <string name="title_update" translatable="false">KAYIT GUNCELLE</string>
+    <string name="title_delete" translatable="false">KAYIT SİL</string>
+</resources>
